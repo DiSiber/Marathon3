@@ -42,7 +42,7 @@ body {
 .will_help {
   width: 1400px;
   height: 715px;
-  background: url("img/top-bckgrnd.png") 0 0/contain no-repeat;
+  background: url("./img/top-bckgrnd.png") 0 0/contain no-repeat;
 }
 
 .will_help .menu {
